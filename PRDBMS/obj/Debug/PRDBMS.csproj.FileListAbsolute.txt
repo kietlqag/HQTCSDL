@@ -1,0 +1,102 @@
+D:\Secret\PRDBMS\PRDBMS\bin\Debug\PRDBMS.exe.config
+D:\Secret\PRDBMS\PRDBMS\bin\Debug\PRDBMS.exe
+D:\Secret\PRDBMS\PRDBMS\bin\Debug\PRDBMS.pdb
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.AssemblyReference.cache
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FMain.resources
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.Properties.Resources.resources
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.GenerateResource.cache
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.CoreCompileInputs.cache
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.exe
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.pdb
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FSanPham.resources
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FNhanVien.resources
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FHoaDon.resources
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FKhachHang.resources
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FDoanhThu.resources
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FNhaCungCap.resources
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FKhoHang.resources
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FCuaHang.resources
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FKhuyenMai.resources
+D:\Secret\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FLuong.resources
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.AssemblyReference.cache
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FCuaHang.resources
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FDoanhThu.resources
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FHoaDon.resources
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FKhachHang.resources
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FKhoHang.resources
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FKhuyenMai.resources
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FLuong.resources
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FMain.resources
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FNhaCungCap.resources
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FNhanVien.resources
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FSanPham.resources
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.Properties.Resources.resources
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.GenerateResource.cache
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.CoreCompileInputs.cache
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.exe
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.pdb
+D:\CSDL\PRDBMS\PRDBMS\bin\Debug\PRDBMS.exe.config
+D:\CSDL\PRDBMS\PRDBMS\bin\Debug\PRDBMS.exe
+D:\CSDL\PRDBMS\PRDBMS\bin\Debug\PRDBMS.pdb
+D:\CSDL\PRDBMS\PRDBMS\obj\Debug\PRDBMS.LOGIN.resources
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\bin\Debug\PRDBMS.exe.config
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\bin\Debug\PRDBMS.exe
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\bin\Debug\PRDBMS.pdb
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.AssemblyReference.cache
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FCuaHang.resources
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FDoanhThu.resources
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FHoaDon.resources
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FKhachHang.resources
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FKhoHang.resources
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FLuong.resources
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FMain.resources
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FNhaCungCap.resources
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FNhanVien.resources
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FSanPham.resources
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.LOGIN.resources
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.Properties.Resources.resources
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.GenerateResource.cache
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.CoreCompileInputs.cache
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.exe
+C:\Users\kietd\Downloads\PRDBMS\PRDBMS\obj\Debug\PRDBMS.pdb
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\bin\Debug\PRDBMS.exe.config
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\bin\Debug\PRDBMS.exe
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\bin\Debug\PRDBMS.pdb
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.AssemblyReference.cache
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FCuaHang.resources
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FDoanhThu.resources
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FHoaDon.resources
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FKhachHang.resources
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FKhoHang.resources
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FLuong.resources
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FMain.resources
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FNhaCungCap.resources
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FNhanVien.resources
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FSanPham.resources
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.LOGIN.resources
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.Properties.Resources.resources
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.GenerateResource.cache
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.CoreCompileInputs.cache
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.exe
+D:\HeQuanTriCoSoDuLieu\PRDBMS\PRDBMS\obj\Debug\PRDBMS.pdb
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\bin\Debug\PRDBMS.exe.config
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\bin\Debug\PRDBMS.exe
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\bin\Debug\PRDBMS.pdb
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.AssemblyReference.cache
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.exe.config
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FCuaHang.resources
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FDoanhThu.resources
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FHoaDon.resources
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FKhachHang.resources
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FKhoHang.resources
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FLuong.resources
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FMain.resources
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FNhaCungCap.resources
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FNhanVien.resources
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.FSanPham.resources
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.LOGIN.resources
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.Properties.Resources.resources
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.GenerateResource.cache
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.csproj.CoreCompileInputs.cache
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.exe
+C:\Users\kietd\Downloads\Nhóm 5\Source code\PRDBMS\PRDBMS\obj\Debug\PRDBMS.pdb
